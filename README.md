@@ -109,7 +109,7 @@ To revert back to the vanilla game:
 ### v1.0.0
 - **Initial Release of Copywriting Overhaul**.
 - Merged retranslated English dialogue and story text from [Eiyuden Chronicles Translation Fixes FINAL](https://www.nexusmods.com/eiyudenchronicle/mods/21).
-- Merged transparent, detailed item, ability, Rune-Lens, and HQ descriptions from [Description Overhaul Proiectus](https://www.nexusmods.com/eiyudenchronicle/mods/22).
+- Merged transparent, detailed item, ability, Rune-Lens, and HQ descriptions from [Eiyuden Chronicle Hundred Heroes Description Overhaul Proiectus](https://www.nexusmods.com/eiyudenchronicle/mods/22).
 - Resolved overlapping string table entries to ensure compatibility with recent game patch updates.
 - Tested and verified on the latest Steam PC release.
 
@@ -123,7 +123,7 @@ This project builds upon the hard work and dedication of the *Eiyuden Chronicle*
   - Mod Page: [Nexus Mods #21](https://www.nexusmods.com/eiyudenchronicle/mods/21)
   - For the dialogue and story retranslation adjustments that restore natural character expression and faithful tone.
 
-- **Description Overhaul Proiectus**:
+- **Eiyuden Chronicle Hundred Heroes Description Overhaul Proiectus**:
   - Mod Page: [Nexus Mods #22](https://www.nexusmods.com/eiyudenchronicle/mods/22)
   - Created by **Kurelyn Proiecta** (**Lynnemie** and **MahouKurein**).
   - For researching game formulas, data values, and writing in-depth descriptions for items, Rune-Lenses, support passives, and mini-game mechanics.
