@@ -1,34 +1,29 @@
 # Eiyuden Chronicle: Hundred Heroes — Copywriting Overhaul
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Game Version](https://img.shields.io/badge/Eiyuden%20Chronicle-PC%20(Steam%20%7C%20GOG%20%7C%20Game%20Pass)-orange)]()
-[![Nexus Mods #21](https://img.shields.io/badge/Credit-Nexus%20Mod%20%2321-brightgreen)](https://www.nexusmods.com/eiyudenchronicle/mods/21)
-[![Nexus Mods #22](https://img.shields.io/badge/Credit-Nexus%20Mod%20%2322-brightgreen)](https://www.nexusmods.com/eiyudenchronicle/mods/22)
-
 A comprehensive copywriting and text overhaul for **Eiyuden Chronicle: Hundred Heroes**. This mod combines a faithful, natural English story/dialogue retranslation with exhaustive, transparent in-game mechanics and item descriptions.
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
-- [Overview](#-overview)
-- [What the Mod Changes](#-what-the-mod-changes)
+- [Overview](#overview)
+- [What the Mod Changes](#what-the-mod-changes)
   - [1. Dialogue & Story Retranslation](#1-dialogue--story-retranslation)
   - [2. Description Overhaul](#2-description-overhaul)
   - [3. UI & Terminology Consistency](#3-ui--terminology-consistency)
-- [Included Files](#-included-files)
-- [Installation Guide](#-installation-guide)
+- [Included Files](#included-files)
+- [Installation Guide](#installation-guide)
   - [Steam](#steam)
   - [GOG](#gog)
   - [PC Game Pass / Microsoft Store](#pc-game-pass--microsoft-store)
-- [Uninstallation](#-uninstallation)
-- [Compatibility & Save Safety](#-compatibility--save-safety)
-- [Update Log](#-update-log)
-- [Credits & Acknowledgments](#-credits--acknowledgments)
+- [Uninstallation](#uninstallation)
+- [Compatibility & Save Safety](#compatibility--save-safety)
+- [Update Log](#update-log)
+- [Credits & Acknowledgments](#credits--acknowledgments)
 
 ---
 
-## 🌟 Overview
+## Overview
 
 The official English release of *Eiyuden Chronicle: Hundred Heroes* drew community feedback regarding two major areas:
 1. **Localization liberties**: Inclusion of anachronistic modern internet slang, memes, and phrasing deviations that broke immersion.
@@ -38,7 +33,7 @@ This project merges and updates the community's leading solutions into a single,
 
 ---
 
-## 🛠️ What the Mod Changes
+## What the Mod Changes
 
 ### 1. Dialogue & Story Retranslation
 - **Faithful Character Voices**: Restores character dialogue closer to the original Japanese intent and emotional tone, removing out-of-place contemporary slang.
@@ -58,7 +53,7 @@ This project merges and updates the community's leading solutions into a single,
 
 ---
 
-## 📦 Included Files
+## Included Files
 
 This repository contains two pre-packaged Unity AssetBundle files:
 
@@ -69,7 +64,7 @@ This repository contains two pre-packaged Unity AssetBundle files:
 
 ---
 
-## 🚀 Installation Guide
+## Installation Guide
 
 > [!IMPORTANT]
 > **ALWAYS backup your original files first!**
@@ -111,7 +106,7 @@ This repository contains two pre-packaged Unity AssetBundle files:
 
 ---
 
-## 🔄 Uninstallation
+## Uninstallation
 
 To revert back to the vanilla game:
 1. Delete the modified `.bundle` files from `StandaloneWindows64\`.
@@ -120,14 +115,14 @@ To revert back to the vanilla game:
 
 ---
 
-## 🔒 Compatibility & Save Safety
+## Compatibility & Save Safety
 
 - **Save File Safe**: Modifying string tables and description bundles does **not** alter your save file structure. You can install or remove this mod at any time during an ongoing playthrough without corrupting save files.
 - **Game Updates**: If the official game receives an update through Steam or another launcher, the launcher may overwrite the modified bundle files. If that occurs, simply re-copy the modded bundle files back into the directory.
 
 ---
 
-## 📝 Update Log
+## Update Log
 
 ### v1.0.0
 - **Initial Release of Copywriting Overhaul**.
@@ -138,7 +133,7 @@ To revert back to the vanilla game:
 
 ---
 
-## 🤝 Credits & Acknowledgments
+## Credits & Acknowledgments
 
 This project builds upon the hard work and dedication of the *Eiyuden Chronicle* modding community:
 
@@ -153,9 +148,3 @@ This project builds upon the hard work and dedication of the *Eiyuden Chronicle*
 
 - **Rabbit & Bear Studios & 505 Games**:
   - For developing and publishing *Eiyuden Chronicle: Hundred Heroes*.
-
----
-
-## ⚖️ License
-
-The modifications in this repository are distributed for personal, educational, and non-commercial community enhancement under the [MIT License](LICENSE). All original game assets, trademarks, and intellectual property remain the property of Rabbit & Bear Studios and 505 Games.
