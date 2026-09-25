@@ -1,4 +1,4 @@
-# Eiyuden Chronicle: Hundred Heroes — Copywriting Overhaul
+# Eiyuden Chronicle: Hundred Heroes - Copywriting Overhaul
 
 A comprehensive copywriting and text overhaul for **Eiyuden Chronicle: Hundred Heroes**. This mod combines a faithful, natural English story/dialogue retranslation with exhaustive, transparent in-game mechanics and item descriptions.
 
@@ -26,7 +26,7 @@ While playing *Eiyuden Chronicle: Hundred Heroes*, two issues with the official 
 1. **Overly liberal localization**: The dialogue often relies on anachronistic modern internet slang, memes, and phrasing deviations that take away from the world's fantasy tone and faithful character personalities.
 2. **Opaque descriptions**: Vague tooltips (such as "slightly increases damage" or "moderately restores HP") that obscure actual numbers, percentages, turn counts, and mechanics needed to make informed tactical choices.
 
-I put together this overhaul for my own playthrough to address both—bringing back a faithful, grounded dialogue flow closer to the original Japanese script, paired with transparent, data-driven descriptions across all items, abilities, and Rune-Lenses.
+I made this mod for my own playthrough to fix both problems. It brings back natural dialogue that is closer to the original Japanese script. It also adds clear descriptions with exact numbers for all items, skills, and Rune-Lenses.
 
 ---
 
