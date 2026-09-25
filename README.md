@@ -22,11 +22,11 @@ A comprehensive copywriting and text overhaul for **Eiyuden Chronicle: Hundred H
 
 ## Overview
 
-The official English release of *Eiyuden Chronicle: Hundred Heroes* drew community feedback regarding two major areas:
-1. **Localization liberties**: Inclusion of anachronistic modern internet slang, memes, and phrasing deviations that broke immersion.
-2. **Opaque descriptions**: Vague tooltips (e.g., "slightly increases damage" or "moderately restores HP") that hid actual numbers, percentages, turn counts, and mechanics.
+While playing *Eiyuden Chronicle: Hundred Heroes*, two issues with the official English release consistently broke immersion for me:
+1. **Overly liberal localization**: The dialogue often relies on anachronistic modern internet slang, memes, and phrasing deviations that take away from the world's fantasy tone and faithful character personalities.
+2. **Opaque descriptions**: Vague tooltips (such as "slightly increases damage" or "moderately restores HP") that obscure actual numbers, percentages, turn counts, and mechanics needed to make informed tactical choices.
 
-This project merges and updates the community's leading solutions into a single, seamless, drop-in package. Enjoy a faithful translation of story dialogues alongside clear, data-driven descriptions for items, Rune-Lenses, and abilities.
+I put together this overhaul for my own playthrough to address both—bringing back a faithful, grounded dialogue flow closer to the original Japanese script, paired with transparent, data-driven descriptions across all items, abilities, and Rune-Lenses.
 
 ---
 
