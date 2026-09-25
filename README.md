@@ -108,7 +108,7 @@ To revert back to the vanilla game:
 
 ### v1.0.0
 - **Initial Release of Copywriting Overhaul**.
-- Merged retranslated English dialogue and story text from the [AI EN Retranslation Project](https://www.nexusmods.com/eiyudenchronicle/mods/21).
+- Merged retranslated English dialogue and story text from [Eiyuden Chronicles Translation Fixes FINAL](https://www.nexusmods.com/eiyudenchronicle/mods/21).
 - Merged transparent, detailed item, ability, Rune-Lens, and HQ descriptions from [Description Overhaul Proiectus](https://www.nexusmods.com/eiyudenchronicle/mods/22).
 - Resolved overlapping string table entries to ensure compatibility with recent game patch updates.
 - Tested and verified on the latest Steam PC release.
@@ -119,7 +119,7 @@ To revert back to the vanilla game:
 
 This project builds upon the hard work and dedication of the *Eiyuden Chronicle* modding community:
 
-- **AI EN Retranslation Project**:
+- **Eiyuden Chronicles Translation Fixes FINAL**:
   - Mod Page: [Nexus Mods #21](https://www.nexusmods.com/eiyudenchronicle/mods/21)
   - For the dialogue and story retranslation adjustments that restore natural character expression and faithful tone.
 
