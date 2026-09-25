@@ -13,9 +13,6 @@ A comprehensive copywriting and text overhaul for **Eiyuden Chronicle: Hundred H
   - [3. UI & Terminology Consistency](#3-ui--terminology-consistency)
 - [Included Files](#included-files)
 - [Installation Guide](#installation-guide)
-  - [Steam](#steam)
-  - [GOG](#gog)
-  - [PC Game Pass / Microsoft Store](#pc-game-pass--microsoft-store)
 - [Uninstallation](#uninstallation)
 - [Compatibility & Save Safety](#compatibility--save-safety)
 - [Update Log](#update-log)
@@ -66,11 +63,14 @@ This repository contains two pre-packaged Unity AssetBundle files:
 
 ## Installation Guide
 
+> [!NOTE]
+> **Platform Notice**: This mod has **only been tested on the Steam version** of the game. It has not been tested on GOG, Xbox / PC Game Pass, or other platforms.
+
 > [!IMPORTANT]
 > **ALWAYS backup your original files first!**
 > Before replacing any files, copy your existing `.bundle` files to a safe backup folder so you can restore them at any time.
 
-### Steam
+### Instructions (Steam)
 
 1. Open your **Steam Library**.
 2. Right-click **Eiyuden Chronicle: Hundred Heroes** > **Manage** > **Browse local files**.
@@ -86,24 +86,6 @@ This repository contains two pre-packaged Unity AssetBundle files:
 6. Copy both bundle files from this repository and **paste & overwrite** them into that `StandaloneWindows64` directory.
 7. Launch the game and enjoy!
 
-### GOG
-
-1. Open GOG Galaxy, right-click **Eiyuden Chronicle: Hundred Heroes** > **Manage installation** > **Show folder**.
-2. Navigate to:
-   ```text
-   EiyudenChronicle_Data\StreamingAssets\aa\StandaloneWindows64\
-   ```
-3. Backup your original files, then copy and overwrite with the files from this mod.
-
-### PC Game Pass / Microsoft Store
-
-1. Open the Xbox App, right-click **Eiyuden Chronicle: Hundred Heroes** > **Manage** > **Files** > **Browse**.
-2. Navigate to the game content directory:
-   ```text
-   Content\EiyudenChronicle_Data\StreamingAssets\aa\StandaloneWindows64\
-   ```
-3. Backup your original files, then copy and overwrite with the files from this mod.
-
 ---
 
 ## Uninstallation
@@ -118,7 +100,7 @@ To revert back to the vanilla game:
 ## Compatibility & Save Safety
 
 - **Save File Safe**: Modifying string tables and description bundles does **not** alter your save file structure. You can install or remove this mod at any time during an ongoing playthrough without corrupting save files.
-- **Game Updates**: If the official game receives an update through Steam or another launcher, the launcher may overwrite the modified bundle files. If that occurs, simply re-copy the modded bundle files back into the directory.
+- **Game Updates**: If the official game receives an update through Steam, the game launcher may overwrite the modified bundle files. If that occurs, simply re-copy the modded bundle files back into the directory.
 
 ---
 
@@ -129,7 +111,7 @@ To revert back to the vanilla game:
 - Merged retranslated English dialogue and story text from the [AI EN Retranslation Project](https://www.nexusmods.com/eiyudenchronicle/mods/21).
 - Merged transparent, detailed item, ability, Rune-Lens, and HQ descriptions from [Description Overhaul Proiectus](https://www.nexusmods.com/eiyudenchronicle/mods/22).
 - Resolved overlapping string table entries to ensure compatibility with recent game patch updates.
-- Tested and verified against the latest PC release.
+- Tested and verified on the latest Steam PC release.
 
 ---
 
