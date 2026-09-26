@@ -106,6 +106,19 @@ To revert back to the vanilla game:
 
 ## Update Log
 
+### v1.1.0 - Localization Copywriting Overhaul
+- **Slang & Anachronism Cleanup**:
+  - Eliminated modern Gen-Z and internet buzzwords (`sus`, `cringe`, `chillax`, `vibe`, `clout`, `living rent-free`, etc.), replacing them with natural fantasy phrasing faithful to Japanese originals.
+  - Replaced crude colloquialisms and modern schoolyard insults (`dork`, `douchebag`, `shut your face hole`, `suck`, `bonkers`, etc.).
+  - Polished over 140 casual comic interjections (`oof`, `yuck`, etc.) with authentic character exertion and emotional sounds (`hngh`, `ungh`).
+  - Standardized occurrences of `bestie` (translating `親友`) based on character dynamics (*close friend*, *comrade*, *friends for life*).
+  - Synchronized all instances of the crude `You've Pissed Me Off!` skill, rune, and scenario text to **`Righteous Wrath`** / **`Rune of Righteous Wrath`** (matching Japanese original `もう怒りました`).
+- **Untranslated Japanese Fixes**:
+  - Translated remaining raw Japanese strings in the English tables (`FotressTown_InsideGardenLv0`, `EltyWeiss_NPC`, `EggHorseRaceText`, `SharkManIsland`).
+- **Dialogue & Choice Branch Restoration**:
+  - Restored full English script for Martha & Leene's reunion scene (`Scenario_ch_00940_01`).
+  - Restored universal hero recruitment prompts (`仲間になってくれ`, `一緒に戦おう`, etc.).
+
 ### v1.0.0
 - **Initial Release of Copywriting Overhaul**.
 - Merged retranslated English dialogue and story text from [Eiyuden Chronicles Translation Fixes FINAL](https://www.nexusmods.com/eiyudenchronicle/mods/21).
