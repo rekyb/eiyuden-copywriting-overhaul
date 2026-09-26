@@ -20,5 +20,14 @@ ehthumbs_vista.db
 
 # Backups
 *.bak
+*.bundle.bak
 *.orig
 *~
+
+# QA Reports and Original Bundles
+*.html
+org-jp-loc.bundle
+
+# Documentation & Tooling Scripts
+docs/
+scripts/
