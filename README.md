@@ -106,6 +106,9 @@ To revert back to the vanilla game:
 
 ## Update Log
 
+### v1.1.1 - Hotfix: Carrie's Unique Skill & Rune
+- **In-Character Exclamation**: Retranslated Carrie's unique skill and rune (`もう怒りました`) from the overly solemn *"Righteous Wrath"* to **`Now I'm Mad!`** / **`Rune of Now I'm Mad!`**. This faithfully conveys Carrie's polite, exasperated battle exclamation and tantrum when unleashing her magic in combat.
+
 ### v1.1.0 - Localization Copywriting Overhaul
 - **Slang & Anachronism Cleanup**:
   - Eliminated modern Gen-Z and internet buzzwords (`sus`, `cringe`, `chillax`, `vibe`, `clout`, `living rent-free`, etc.), replacing them with natural fantasy phrasing faithful to Japanese originals.
