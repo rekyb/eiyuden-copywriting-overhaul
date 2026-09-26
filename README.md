@@ -106,6 +106,9 @@ To revert back to the vanilla game:
 
 ## Update Log
 
+### v1.1.2 - Hotfix: Lian's Dialogue Restoration ("Kiddo" -> "Nowa")
+- **Restored Peer Dynamic**: Removed all 22 occurrences where Lian calls Nowa *"kiddo"*, replacing them with natural peer dialogue faithful to the original Japanese script (primarily `ノアくん` / `ノア` -> **Nowa**, and `新人くん` -> **rookie** in their introductory ruin encounter). This restores their youthful companion dynamic and eliminates the jarring, paternal condescension present in the official English localization.
+
 ### v1.1.1 - Hotfix: Carrie's Unique Skill & Rune
 - **In-Character Exclamation**: Retranslated Carrie's unique skill and rune (`もう怒りました`) from the overly solemn *"Righteous Wrath"* to **`Now I'm Mad!`** / **`Rune of Now I'm Mad!`**. This faithfully conveys Carrie's polite, exasperated battle exclamation and tantrum when unleashing her magic in combat.
 
